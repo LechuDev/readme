@@ -2,11 +2,11 @@
 
 📊 **Tiempo de codificación con WakaTime**
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TU_USUARIO&theme=dark)](https://wakatime.com/@TU_USUARIO)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=LechuDev&theme=dark)](https://wakatime.com/@LechuDev)
 
 🍰 **Distribución por lenguajes (gráfica de pastel)**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark)](https://wakatime.com/@TU_USUARIO)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LechuDev&layout=compact&theme=dark)](https://wakatime.com/@LechuDev)
 
 ---
 
