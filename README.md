@@ -24,7 +24,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" alt="Unity" />
   </a>
   <a href="https://obsidian.md/" target="_blank">
-    <img src="[https://obsidian.md/images/2023-06-logo.png](https://avatars.githubusercontent.com/u/65011256?s=200&v=4)" width="40" alt="Obsidian" />
+    <img src="https://lh3.googleusercontent.com/1jhkwbd5ChZKcFiQ48ENS8U0OM9G8TeMqIxJ3tqcljP77MzSljzaS6pChlR4PF6WehNCFntASpW-G0Co0vFl1RneSrOKhPCHCyqWGQ" width="40" alt="Obsidian" />
   </a>
 </div>
 
