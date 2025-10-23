@@ -6,19 +6,6 @@
 
 ---
 
-## 🧪 ¿Qué incluye?
-
-Este bloque muestra:
-
-- ⏱️ Tiempo total codificado en los últimos 7 días
-- 🧑‍💻 Lenguajes más usados por tiempo
-- 📁 Proyectos activos
-- 📅 Días y horas de mayor actividad
-
-Para ver más detalles, visita tu [dashboard de WakaTime](https://wakatime.com/@LechuDev).
-
----
-
 ## ⚙️ Tecnologías y herramientas favoritas
 
 <div align="left">
