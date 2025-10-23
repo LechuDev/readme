@@ -15,10 +15,16 @@
   </a>
 </div>
 
-###  IDEs / Editores
+###  IDEs / Editores / Motores De videojuegos
 <div align="left">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
+  </a>
+  <a href="https://unity.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" alt="Unity" />
+  </a>
+  <a href="https://obsidian.md/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/mgmeyers/brand-icons/svg/obsidian.svg" width="40" alt="Obsidian" />
   </a>
 </div>
 
