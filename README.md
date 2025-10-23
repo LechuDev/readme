@@ -22,9 +22,7 @@
 <a href="https://www.microsoft.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" alt="Microsoft" />
 </a>
-<a href="https://obsidian.md/" target="_blank">
-  <img src="https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/branding/Icon%20only/Obsidian%20icon%20dark.svg" width="40" alt="Obsidian" />
-</a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
 </a>
