@@ -2,7 +2,11 @@
 
 📊 **Tiempo de codificación con WakaTime**
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=LechuDev)](https://wakatime.com/@LechuDev)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TU_USUARIO&theme=dark)](https://wakatime.com/@TU_USUARIO)
+
+🍰 **Distribución por lenguajes (gráfica de pastel)**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark)](https://wakatime.com/@TU_USUARIO)
 
 ---
 
@@ -27,14 +31,5 @@
 </a>
 
 </div>
-
----
-
-## 🔌 Plugins WakaTime activos
-
-- [VS Code](https://github.com/wakatime/vscode-wakatime)
-- [Blender](https://github.com/wakatime/blender-wakatime)
-- [Unity](https://github.com/wakatime/unity-wakatime)
-- [Git](https://github.com/wakatime/git-wakatime)
 
 ---
