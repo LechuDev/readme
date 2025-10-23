@@ -2,7 +2,7 @@
 
 📊 **Tiempo de codificación con WakaTime**
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TU_USUARIO)](https://wakatime.com/@TU_USUARIO)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=LechuDev)](https://wakatime.com/@LechuDev)
 
 ---
 
